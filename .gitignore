@@ -5,6 +5,7 @@ __pycache__/
 # add config
 config.py
 resources
+dev3.ipynb
 
 # C extensions
 *.so
