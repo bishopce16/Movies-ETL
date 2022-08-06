@@ -41,6 +41,9 @@ ETL_create_database.ipynb
     
 * The sqlalchemy library and to_sql method is the last step to connect the database and complete the ETL process using the extract_transform_load function call.
 
+![movies_query_sql](https://github.com/bishopce16/movies-etl/blob/main/resources/movies_query_sql.png)
+
+![ratings_query](https://github.com/bishopce16/movies-etl/blob/main/resources/ratings_query.png)
 
 ---
 
