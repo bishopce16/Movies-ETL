@@ -4,8 +4,10 @@ __pycache__/
 *$py.class
 # add config
 config.py
-resources
-dev3.ipynb
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+data_sources
 
 # C extensions
 *.so
