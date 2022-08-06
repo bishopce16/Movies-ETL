@@ -46,5 +46,6 @@ ETL_create_database.ipynb
 
 ## Summary:
 
+The one JSON file and two CSV files were extracted, transformed, and joined. The movies and ratings files were loaded into a database for the Amazing Prime Hackathon. 
 
 ---
